@@ -4,7 +4,7 @@ USAGE:
 
 download the file from github:
 
-git clone https://wwwin-github.cisco.com/gsamal/HCL_INTERFACE_DOT1X_MODIFY.git
+git clone https://github.com/gaur-samal/HCL_INTERFACE_DOT1X_MODIFY.git
 
 go to the directory:
 
