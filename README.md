@@ -6,6 +6,10 @@ download the file from github:
 
 git clone https://github.com/gaur-samal/HCL_INTERFACE_DOT1X_MODIFY.git
 
+if you have proxy then,
+
+https_proxy=<add your proxy : port> git clone https://github.com/gaur-samal/HCL_INTERFACE_DOT1X_MODIFY.git
+
 go to the directory:
 
 cd HCL_INTERFACE_DOT1X_MODIFY/
